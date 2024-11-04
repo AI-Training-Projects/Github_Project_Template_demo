@@ -1,5 +1,3 @@
-# NTAI Data Projects GitHub ***PROJECT HOMEPAGE TEMPLATE*** 
-
 # Project Name: ***News API with Voice Output***
 
 ## Project & Work Product Description: 
