@@ -11,6 +11,13 @@
 ### Description of Business Problem:
     Short Paragraph description of what problem(s) you are trying to solve, things you are learning, or value you want to create.
 
+## Description of Solution:
+    •	Software functions for solving problem(s) step by step.
+    •	Workflow diagram of future ("TO-BE") state (improved processes from your solution).
+    •	"Minimum Viable Product" (MVP) 1.0 delivered.  (V1.x delivered beyond MVP V1.0?)
+    •	Later MVP, i.e., v2, v3, vN+ functionality to be delivered? 
+            • additional requirements, GUI, usability, etc. for later versions
+
 ### Solution Design (high-level):
 
 ### Solution Code Description: 
@@ -23,13 +30,6 @@
 
 ## Application Use: ***(Instructions for How to Use The Software)*** 
     If your application applies to multiple use cases, list and briefly describe each major use case. 
-
-## Description of Solution:
-    •	Software functions for solving problem(s) step by step.
-    •	Workflow diagram of future ("TO-BE") state (improved processes from your solution).
-    •	"Minimum Viable Product" (MVP) 1.0 delivered.  (V1.x delivered beyond MVP V1.0?)
-    •	Later MVP, i.e., v2, v3, vN+ functionality to be delivered? 
-            • additional requirements, GUI, usability, etc. for later versions
 
 ### Application Use - ***Tips & Tricks***:    
 
